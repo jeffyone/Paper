@@ -1,4 +1,5 @@
 # Paper
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 flag20190427
 好记性不如烂笔头，更何况针对自己不熟悉的领域，没有工程实践，可能也不了解论文的痛点。
 太多的 awesome， 怎么也看不完：只收藏不看不如一篇一篇的看……
