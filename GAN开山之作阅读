@@ -11,3 +11,8 @@ https://deephunt.in/the-gan-zoo-79597dc8c347
 https://github.com/zhangqianhui/AdversarialNetsPapers
 来自链接：https://www.imooc.com/article/28569
 ===============================
+
+
+论文地址：https://arxiv.org/abs/1805.08318
+ Ian goodfellow 2018年 新作，在GAN生成中加入了attention的机制，同时将SNgan的思想引入到生成器当中。
+ 来自https://blog.csdn.net/zhangyumengs/article/details/80555523
