@@ -1,0 +1,19 @@
+#记录是为了更好的理解，也为了见证历史
+#部分内容来自于博客http://blog.csdn.net/sxf1061926959/article/details/54630462
+#2019-5-3 10:12:04
+生成对抗网络GANs理解（附代码）
+############################
+GANs review
+
+GANs一些新的应用在这篇博文中有所介绍，写的挺好：
+https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets
+###############################
+#####################################################
+demo 代码
+GANs的demo上github搜下，挺多的，可以参考一个比较简单的
+https://github.com/Shicoder/DeepLearning_Demo/tree/master/AdversarialNetworks
+Goodfellow自己原文的代码：
+https://github.com/goodfeli/adversarial
+优缺点，模型性能：
+具体模型的优缺点以及模型的性能可以参考Ian Goodfellow的Quora答疑。
+=====================================================
