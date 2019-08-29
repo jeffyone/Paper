@@ -1,0 +1,10 @@
+###2019-8-29 09:40:01
+###Feng Yuan, Lina Yao and Boualem Benatallah.
+###Adversarial Collaborative Neural Network for Robust Recommendation. 
+###The 42nd Annual ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2019).
+###Paris, France, July 21-25, 2019. 
+在Xiangnan He, Z.H.X.D., Adversarial Personalized Ranking for Recommendation, in SIGIR2018. 2018.基础上提出了对抗与NN结合的文章
+用到了one-hot coding
+首先需要完全学习denoising auto-encoder (DAE) 
+论文后面指出了进一步的工作
+In the future, we will further investigate the effect of adversarial training on deeper and more complicated NN-based recommendation models.
